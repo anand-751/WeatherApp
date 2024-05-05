@@ -76,7 +76,7 @@ bool isValidCityName(const std::string& cityName) {
 
 int main() {
     // Provide your OpenWeatherMap API key here
-    std::string apiKey = "3b51a5b645af9e6f2f2aebb14ffab483";
+    std::string apiKey = "YOUR_API_KEY";
 
     std::string city;
     std::cout << "Enter city name: ";
